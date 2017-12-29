@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: GT
+name: 지티 아카이브
 
 # Short bio or description (displayed in the header)
-description: 세계를 품는 경건의 시간
+description: 2003-2017
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/gt-arxiv/gt-arxiv.github.io/master/images/gt-logo.jpg
+avatar: https://gt-arxiv.github.io/images/gt-logo.jpg
 
 #
 # Flags below are optional
